@@ -4,7 +4,7 @@
 ![Network Graph](screenshots/network-graph.png)
 
 ## 2. Branch Protection Rules
-![Branch Protection](screenshots/branch-protection.png)
+![Branch Protection](screenshots/branch-protection.png)(screenshots/branch-protection1.png)(screenshots/branch-protection2.png)
 
 ## 3. Git Log (--oneline --graph)
 Captured via GitHub Insights → Network graph (see screenshot above).
