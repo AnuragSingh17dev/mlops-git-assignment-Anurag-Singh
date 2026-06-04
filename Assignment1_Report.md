@@ -10,12 +10,9 @@
 
 
 ## 3. Git Log (--oneline --graph)
-Captured via GitHub Insights → Network graph (see screenshot above).
-Commit history summary:
-- feature/add-readme-details: 2 commits, merged into develop
-- feature/add-dockerignore: 2 commits, merged into develop
-- feature/add-code-of-conduct: 2 commits, merged into develop
-- feature/update-readme: conflict resolved and merged into develop
+![Git Log Output](screenshots/git-log1.png)
+![Git Log Output](screenshots/git-log2.png)
+
 
 ## 4. Reflection on Merge Conflicts
 I found it challenging to identify which changes to keep when both branches
