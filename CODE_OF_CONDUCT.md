@@ -1,5 +1,8 @@
 # Contributor Covenant Code of Conduct
 
+## Placeholder Email Address
+conduct@example.com
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
