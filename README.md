@@ -15,6 +15,3 @@ This project focuses on Git Branching & Collaboration.
 1. Clone the repository
 2. Create a virtual environment: `python -m venv venv`
 3. Activate: `source venv/bin/activate` (Mac/Linux)
-
-**Course:** MAI201 MLOps  
-**Date:** 2026-06-04
