@@ -1,0 +1,24 @@
+# Docker ignore file for MLOps Assignment 1
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Git and CI
+.git/
+.github/
+
+# Logs and OS files
+*.log
+.DS_Store
