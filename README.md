@@ -1,9 +1,5 @@
 # mlops-git-assignment-Anurag-Singh
 
-## Name: Anurag Singh
-
-## Student ID: 129247201
-
 ## Project Name
 MAI201 MLOps Assignment 1
 
