@@ -1,6 +1,9 @@
 # mlops-git-assignment-Anurag-Singh
+## Project Name
+MAI201 MLOps Assignment 1
+
 ## About This Project
-This project is for MAI201 MLOps Assignment 1, focusing on Git Branching & Collaboration.
+This project focuses on Git Branching & Collaboration.
 
 ## Prerequisites
 - Python 3.9+
